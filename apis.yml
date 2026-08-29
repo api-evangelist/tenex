@@ -10,6 +10,17 @@ description: >-
   Dynamics to automate compliance and unify operations. Tenex is backed by 500
   Global and the Sanabil 500 MENA Seed Accelerator. As of this enrichment pass no
   public API, developer portal, or machine-readable API surface is published.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
